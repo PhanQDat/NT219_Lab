@@ -1,0 +1,16 @@
+E:\STUDENT\NT219\task3\RSA_GUI\bin\Debug\net8.0-windows\RSA_GUI.exe
+E:\STUDENT\NT219\task3\RSA_GUI\bin\Debug\net8.0-windows\RSA_GUI.deps.json
+E:\STUDENT\NT219\task3\RSA_GUI\bin\Debug\net8.0-windows\RSA_GUI.runtimeconfig.json
+E:\STUDENT\NT219\task3\RSA_GUI\bin\Debug\net8.0-windows\RSA_GUI.dll
+E:\STUDENT\NT219\task3\RSA_GUI\bin\Debug\net8.0-windows\RSA_GUI.pdb
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.Form1.resources
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.csproj.GenerateResource.cache
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.AssemblyInfoInputs.cache
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.AssemblyInfo.cs
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.csproj.CoreCompileInputs.cache
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.dll
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\refint\RSA_GUI.dll
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.pdb
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\RSA_GUI.genruntimeconfig.cache
+E:\STUDENT\NT219\task3\RSA_GUI\obj\Debug\net8.0-windows\ref\RSA_GUI.dll

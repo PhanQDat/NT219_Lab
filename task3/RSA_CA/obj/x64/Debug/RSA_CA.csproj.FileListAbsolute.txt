@@ -1,0 +1,7 @@
+E:\STUDENT\NT219\task3\RSA_CA\bin\x64\Debug\RSA_CA.exe.config
+E:\STUDENT\NT219\task3\RSA_CA\bin\x64\Debug\RSA_CA.exe
+E:\STUDENT\NT219\task3\RSA_CA\bin\x64\Debug\RSA_CA.pdb
+E:\STUDENT\NT219\task3\RSA_CA\obj\x64\Debug\RSA_CA.csproj.AssemblyReference.cache
+E:\STUDENT\NT219\task3\RSA_CA\obj\x64\Debug\RSA_CA.csproj.CoreCompileInputs.cache
+E:\STUDENT\NT219\task3\RSA_CA\obj\x64\Debug\RSA_CA.exe
+E:\STUDENT\NT219\task3\RSA_CA\obj\x64\Debug\RSA_CA.pdb
