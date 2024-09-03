@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\STUDENT\\NT219\\NT219_Lab\\task3\\RSA_MSVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41607422-EAE3-4D8E-894A-FE039E3432DB}|RSA_MSVC.vcxproj|E:\\STUDENT\\NT219\\NT219_Lab\\task3\\RSA_MSVC\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41607422-EAE3-4D8E-894A-FE039E3432DB}|RSA_MSVC.vcxproj|solutionrelative:task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task3.cpp",
+              "DocumentMoniker": "E:\\STUDENT\\NT219\\NT219_Lab\\task3\\RSA_MSVC\\task3.cpp",
+              "RelativeDocumentMoniker": "task3.cpp",
+              "ToolTip": "E:\\STUDENT\\NT219\\NT219_Lab\\task3\\RSA_MSVC\\task3.cpp",
+              "RelativeToolTip": "task3.cpp",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAAO0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T10:00:27.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
